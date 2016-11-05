@@ -431,8 +431,8 @@ program square_conductivity
         sigma_l = matmul(transpose(tau_r),matmul(g_l,tau_r))
         
         
-        csigma_l = transpose(dconjg(sigma_l))
-        csigma_r = transpose(dconjg(sigma_r))
+        csigma_l = transpose(conjg(sigma_l))
+        csigma_r = transpose(conjg(sigma_r))
         
         
         gamma_l = (0.d0,1.d0)*(sigma_l - csigma_l)
