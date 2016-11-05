@@ -13,6 +13,8 @@ relation to write
 
 ![conductance G. F.](http://mathurl.com/hvfvnpd.png)
 
+Quantum Conductance :
 
+![Q_conductance](https://github.com/khroushan/Sqr_Lattice_Electronics/blob/master/conductance.png)
 
 "The recursive Green's function method for graphene" Caio H. Lewenkopf, Eduardo R. Mucciolo 
